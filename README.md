@@ -92,6 +92,7 @@ Through this project, I practised:
 ## 👩‍💻 Author
 
 **Vishva**
+MCA Student Project
 
 ## 🔗 GitHub Repository
 
